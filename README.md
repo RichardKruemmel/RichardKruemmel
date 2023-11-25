@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h4 align="center">I'm a full stack developer and Software Engineering student at CODE University in Berlin. My main focus is on Typescript, React, React Native, Python, and FastAPI, but I also have experience with mobile development, web development, backend, cloud services (AWS, GPC, and Digital Ocean), and CI/CD (fastlane and GitHub actions). In my free time, I enjoy contributing to open source projects and exploring the intersection of technology and politics through civic tech initiatives. I am currently the tech lead at FaceTheFacts, a project funded by the PrototypeFund and WikiMedia that aggregates data about German politicians and displays it in a mobile app.</h4>
+<h4 align="center">I’m an aspiring software engineer and dedicated student at CODE University in Berlin, constantly refining my development skills. 🎓💻
+
+I’m deeply immersed in the full-stack universe, with a keen focus on Typescript, React, and Python. My toolkit also includes React Native for mobile development and FastAPI for backend development. My expertise doesn’t end there — I’m also navigating the skies of cloud services (AWS, GCP, Azure, and Digital Ocean) and orchestrating CI/CD pipelines using fastlane and GitHub Actions.
+
+Currently, I’m fascinated by the potential of Large Language Models (LLMs) and dedicating my time to exploring and innovating in this space. 🤖🚀
+
+Beyond the code, I contribute to open-source projects, fueling my passion for collaborative innovation. I’m also intrigued by the interplay of technology and politics, engaging in civic tech initiatives.
+
+As the tech lead for FaceTheFacts, I’m part of a team supported by PrototypeFund and Wikimedia. We’re democratizing information about German politics by aggregating data and presenting it through a user-friendly mobile app.
+
+Let’s connect and build something meaningful together in this vast digital landscape. 🌟</h4>
 <h1></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardkruemmel&label=Profile%20views&color=0e75b6&style=plastic" alt="richardkruemmel" /> </p>
 
 - 🔭 I’m currently working on [FaceTheFacts](https://github.com/FaceTheFacts)
 
-- 🌱 I’m currently learning **Next.js 13, tailwind.css and Rust**
+- 🌱 I’m currently learning about **Langchain, LLamaIndex, Vector Databases and Ray**
 
 - 💬 Ask me about **Typescript, React, React Native, Python and FastAPI**
 
 - 📫 How to reach me **richard.kruemmel@code.berlin**
 
-- ⚡ Fun fact **I did an internship in India where I helped to prepare Chancellor Merkel's state visit.**
+- ⚡ Fun fact **I did an internship in India where I helped to prepare for Chancellor Merkel's state visit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
